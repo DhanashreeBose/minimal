@@ -8,7 +8,7 @@ Classification algorithms such as logistic regression, Decision Trees, Random Fo
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhanashreeBose/Key-Indicators-of-Heart-Disease-Classification)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="images/classification.jpg"/></center>
 
 ---
 ### Client Subscription
@@ -17,7 +17,7 @@ Classification algorithms such as logistic regression, Decision Trees, Random Fo
 
 The client subscription data , can be used for predictive modeling, customer segmentation, risk management, competitive analysis, and regulatory compliance. These use cases can help businesses better understand their customers, tailor their marketing strategies, make informed decisions about extending credit, identify areas of market share loss, and comply with regulations.
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="images/subscription.jpg"/></center>
 
 ---
 ### Convolutional Neural Network (CNN) for Recognition for Classification
@@ -26,6 +26,6 @@ The client subscription data , can be used for predictive modeling, customer seg
 
 CNNs are used in industries like manufacturing and security for image recognition, fraud detection, sentiment analysis, and recommendation systems. They can help businesses automate processes, protect against scams and fraud, and personalize user recommendations based on their image preferences.
 
-<center><img src=" "/></center>
+<center><img src="images/cnn.jpg"/></center>
 
 ---
