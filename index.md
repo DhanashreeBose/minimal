@@ -15,8 +15,6 @@ Classification algorithms such as logistic regression, Decision Trees, Random Fo
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhanashreeBose/Portugal-Bank-Marketing-Dataset)
 
-This is just a collection of topics and algorithms that in my opinion are interesting.
-
 The client subscription data , can be used for predictive modeling, customer segmentation, risk management, competitive analysis, and regulatory compliance. These use cases can help businesses better understand their customers, tailor their marketing strategies, make informed decisions about extending credit, identify areas of market share loss, and comply with regulations.
 
 <center><img src="images/financial_modeling.jpg"/></center>
