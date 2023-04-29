@@ -20,7 +20,7 @@ The client subscription data , can be used for predictive modeling, customer seg
 <center><img src="images/financial_modeling.jpg"/></center>
 
 ---
-### Convolutional Neural Network (CNN) for Recogntion for Classification
+### Convolutional Neural Network (CNN) for Recognition for Classification
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhanashreeBose/Flower-Recognition-Dataset)
 
